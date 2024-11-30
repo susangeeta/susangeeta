@@ -19,7 +19,7 @@ I'm a Computer Science Graduate 🎓, always curious about how tech works and ea
 ## ⚙️ Some Tools and Tech I use
 
 <div>
-  <img align="left" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,postman,npm,yarn,bash,git,github,visualstudio" width="500" />
+  <img align="left" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,postman,npm,yarn,bash,git,github,visualstudio" width="1000" />
 </div>
 
 <br clear="left" />
@@ -28,6 +28,6 @@ I'm a Computer Science Graduate 🎓, always curious about how tech works and ea
 
 ## 🚀 Quick Stats
 
-<p align="center">
+<p align="left">
   <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=susangeeta&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 </p>
